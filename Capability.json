@@ -75,8 +75,8 @@
         "Capability": "Non-native",
         "Descripton": "Non-native means the AR content can be running on several platforms like mobile phones, computers, and laptops by sharing via a URL web link. Users do not have to download any native apps to their devices."
     },
-    "Cross-platform \n(for hardware) -> Computing units compatibility?": {
-        "Capability": "Cross-platform \n(for hardware) -> Computing units compatibility?",
+    "Computing units compatibility": {
+        "Capability": "Computing units compatibility",
         "Descripton": "A majority of AR glasses require a standalone computing unit to run and process data. The capability of Hardware cross-platform means whether the AR glasses (or other devices) can be run on different computing units, like iphones, android phones, PC and etc."
     },
     "LightProjection": {
@@ -111,20 +111,16 @@
         "Capability": "Cylinder/conical surface detection and tracking (software)",
         "Descripton": "Able to place AR content onto curved surfaces such as soda cans, in addition to planes, flat markers and images."
     },
-    "": {
-        "Capability": "",
-        "Descripton": ""
-    },
     "Motion Capture": {
         "Capability": "Motion Capture",
-        "Descripton": ""
+        "Descripton": "The process or technique of recording patterns of movement digitally, especially the recording of an actor's movements for the purpose of animating a digital character in a movie or video game. (Definition from Oxford Dictionary)"
     },
     "people occlusion": {
         "Capability": "people occlusion",
-        "Descripton": ""
+        "Descripton": "The capability to hide virtual objects behind people or show in front based on real world depth order, which makes AR experience more immersive. This requires the capability to understand the real world environments and objects so virtual objects can interact with people accurately."
     },
     "Multi-object tracking": {
         "Capability": "Multi-object tracking",
-        "Descripton": ""
+        "Descripton": "Able to track multiple objects."
     }
 }
