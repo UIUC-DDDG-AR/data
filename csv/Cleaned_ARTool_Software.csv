@@ -1,0 +1,18 @@
+Software,ObjectRecognition,6DoF,3DoF,Room/SceneTracking,MarkerTracking,ShowTextInformation,FacialRecognition,GPS,non-native ,MotionCapture,HandTracking,ParticleSimulation,PictureTaking,VideoRecording,Communication_VideoStreaming,Communication_Calling,Light Projection,BodyRecognition,PlaneDetection,Cylinder/curvedSurfaceTracking,PeopleOcclusion,Multi-object tracking,DepthSensing,LightingEstimation,VoiceRecognition,HandController,EyeTracking,Cloud/SpatialAnchor,Show2DContent,Show3DContent,ExtendedTracking
+Vuforia,True,True,True,False,True,True,False,True,False,False,False,True,True,True,True,True,False,False,True,True,False,True,False,True,False,True,False,False,True,True,True
+OpenCV,True,True,True,True,True,True,True,False,True,False,True,False,True,True,False,False,False,True,True,True,False,True,True,True,False,False,False,False,True,False,False
+Unity3D,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+Wikitude SDK,True,True,True,True,True,True,False,True,True,True,False,False,True,True,False,False,False,False,True,True,True,True,True,False,False,True,False,False,True,True,True
+Spark AR,True,True,True,False,True,True,True,False,False,False,True,True,True,True,True,False,False,True,True,False,True,False,False,True,False,True,True,False,True,True,False
+ManoMotion,True,True,True,False,False,True,False,False,False,True,True,False,True,True,False,False,False,True,True,False,False,True,True,False,False,True,False,False,True,True,False
+Unreal Engine,True,True,True,True,True,True,True,True,False,True,False,True,True,True,False,False,False,True,True,False,True,True,True,True,True,True,True,True,True,True,True
+Apple ARKit,True,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,True,False,False,True,True,True
+ARCore,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,False,False,True,True,False,False,False,True,True,False,True,False,True,True,True,True
+AR.js ,True,True,True,False,True,True,True,True,True,True,False,True,True,True,False,False,False,True,True,True,False,False,True,True,False,True,False,False,True,True,False
+8th Wall ,True,True,True,True,True,True,True,True,True,True,True,False,True,True,False,False,False,True,True,True,True,True,True,True,False,True,False,False,True,True,False
+Three.js ,True,True,True,False,True,True,True,False,True,True,False,True,True,True,False,False,False,True,True,True,True,False,True,True,False,True,True,False,True,True,False
+A-Frame ,True,True,True,True,True,True,True,False,True,True,False,True,True,True,False,False,False,True,True,True,True,False,True,True,False,True,True,False,True,True,False
+Amazon Sumerian ,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,False,True,True,True,False
+Babylon.js ,True,True,True,False,True,True,True,False,True,True,True,True,True,True,False,False,False,True,True,True,False,False,True,False,False,True,True,False,True,True,False
+PlayCanvas ,True,True,True,False,True,True,True,False,True,True,True,True,True,True,True,True,False,True,True,True,False,True,True,False,False,True,False,True,True,True,False
+Snapchat/Lens Studio,True,True,True,True,True,True,True,False,False,True,True,True,True,True,True,True,False,True,True,False,False,True,True,False,False,True,False,False,True,True,True
