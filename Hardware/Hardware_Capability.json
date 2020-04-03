@@ -23,7 +23,7 @@
         "VoiceRecognition": "yes. Support Windows Cortana\nnote: can work in noisy industrial environments",
         "HandController": "yes. possible to use remote",
         "EyeTracking": "yes.",
-        "Cloud/SpatialAnchor": "yes. supported by Azure",
+        "Cloud/SpatialAnchor": "yes supported by Azure",
         "Show2DContent": "yes. Can display 2D windows for some traditional apps",
         "Show3DContent": "yes.",
         "ExtendedTracking": "yes."
