@@ -1,10 +1,10 @@
 import csv, json 
 
-path_capability = "/Users/scottwang/Desktop/AR/data/csv/ARTool_ARCapability.csv"
-path_Hardware_capability = "/Users/scottwang/Desktop/AR/data/csv/ARTool_Hardware.csv"
-path_Software_capability = "/Users/scottwang/Desktop/AR/data/csv/ARTool_Software.csv"
-path_Hardware_information = "/Users/scottwang/Desktop/AR/data/csv/Hardware_Info.csv"
-path_Software_information = "/Users/scottwang/Desktop/AR/data/csv/Software_Info.csv"
+path_capability = "/Users/scottwang/Desktop/AR/data/csv/capability.csv"
+path_Hardware_capability = "/Users/scottwang/Desktop/AR/data/csv/hardware_capability.csv"
+path_Software_capability = "/Users/scottwang/Desktop/AR/data/csv/software_capability.csv"
+path_Hardware_information = "/Users/scottwang/Desktop/AR/data/csv/hardware_information.csv"
+path_Software_information = "/Users/scottwang/Desktop/AR/data/csv/software_information.csv"
 
 data_capability = {}
 with open(path_capability) as csv_capability:

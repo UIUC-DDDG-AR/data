@@ -1,7 +1,7 @@
 import csv, json 
 
-path_Hardware = "/Users/scottwang/Desktop/AR/FeatureMappingData/ARTool_Hardware.csv"
-path_Software = "/Users/scottwang/Desktop/AR/FeatureMappingData/ARTool_Software.csv"
+path_Hardware = "/Users/scottwang/Desktop/AR/data/csv/hardware_capability.csv"
+path_Software = "/Users/scottwang/Desktop/AR/data/csv/software_capability.csv"
 
 hardWare = []
 hardWare_copy = []
@@ -24,7 +24,7 @@ with open(path_Hardware, 'rt') as f1, open(path_Software, 'rt') as f2:
         for i in range(1, len(item1)):
             if item1[i][:3] == 'yes':
                 item1[i] = True
-                print (type(item1[i]))
+                # print (type(item1[i]))
             else :
                 item1[i] = False
         hardWare_copy.append(item1)
@@ -41,8 +41,8 @@ with open(path_Hardware, 'rt') as f1, open(path_Software, 'rt') as f2:
         softWare_copy.append(item2)
 
 # wirte clean data to csv
-path_Hardware_clean = "/Users/scottwang/Desktop/AR/FeatureMappingData/Cleaned_ARTool_Hardware.csv"
-path_Software_clean = "/Users/scottwang/Desktop/AR/FeatureMappingData/Cleaned_ARTool_Software.csv"
+path_Hardware_clean = "/Users/scottwang/Desktop/AR/data/csv/cleaned_hardware_capability.csv"
+path_Software_clean = "/Users/scottwang/Desktop/AR/data/csv/cleaned_software_capability.csv"
 with open(path_Hardware_clean,'w') as f3:
     f3 = csv.writer(f3)
     for row in hardWare_copy:

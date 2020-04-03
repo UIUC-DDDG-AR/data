@@ -1,26 +1,26 @@
-Hardware,ObjectRecognition,6DoF,3DoF,Room/SceneTracking,LightProjection,MarkerTracking,FacialRecognition,GPS,Cross-platform,HandTracking,PictureTaking,VideoRecording,Communication_Calling,Communication_VideoStreaming,Communication_Telepresence,Body Recognition,PlaneDetection,DepthSensing,LightingEstimation,VoiceRecognition,HandController,EyeTracking,Cloud/SpatialAnchor,Show2DContent,Show3DContent,ExtendedTracking
+Hardware,ObjectRecognition,6DoF,3DoF,Room/SceneTracking,LightProjection (change name),MarkerTracking,FacialRecognition,GPS,Cross-platform (don't consider for now),HandTracking,PictureTaking,VideoRecording,Communication_Calling,Communication_VideoStreaming,Communication_Telepresence,BodyRecognition,PlaneDetection,DepthSensing,LightingEstimation,VoiceRecognition,HandController,EyeTracking,Cloud/SpatialAnchor,Show2DContent,Show3DContent,ExtendedTracking
 Hololens2,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True
-MagicLeap1,False,True,True,True,False,True,False,True,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True
+MagicLeap1,False,True,True,True,False,True,False,True,True,True,True,True,False,True,True,False,True,True,True,True,True,True,True,True,True,True
 nrealLight,False,True,True,True,False,True,False,True,True,False,True,False,True,False,False,False,True,True,True,False,False,False,True,True,True,True
 Epson Moverio BT-300,True,False,True,True,False,True,True,True,True,False,True,True,True,True,False,False,True,False,True,False,False,False,True,True,True,True
-ThirdEye Gen X2,False,True,True,True,False,True,True,True,False,False,True,True,True,True,True,False,True,True,True,True,True,False,True,True,True,True
-Vuzix M400,False,False,True,False,False,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,False,False,True,False,False
-Vuzix Blade,False,False,True,False,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,True,True,False,False,True,False,False
+ThirdEye Gen X2,False,True,True,True,False,True,True,True,False,True,True,True,True,True,True,False,True,True,True,True,True,False,True,True,True,True
+Vuzix M400,False,False,True,False,False,True,False,True,True,False,True,True,True,True,False,False,False,False,True,True,True,False,False,True,False,False
+Vuzix Blade,False,False,True,False,False,False,False,True,True,False,True,True,True,True,False,False,False,False,False,True,True,False,False,True,False,False
 Optinvent ORA-2,False,False,True,False,False,False,False,True,False,False,True,True,True,True,False,False,False,False,True,True,True,False,False,True,False,False
-DreamWorld DreamGlass,False,True,True,True,False,True,False,True,True,True,True,True,True,True,True,False,True,False,True,False,False,False,True,True,True,True
-Project North Star,False,True,True,True,False,True,False,True,False,True,True,True,True,True,True,False,True,False,True,False,False,False,True,True,True,True
-Rokid Project Aurora,True,True,True,True,False,False,True,True,True,True,True,True,True,False,True,False,True,True,False,False,True,False,True,True,True,True
+DreamWorld DreamGlass,False,False,True,True,False,True,False,True,True,True,True,True,True,True,True,False,True,False,True,False,False,False,True,True,True,True
+Project North Star,False,True,True,True,False,True,False,True,False,False,True,True,True,True,True,False,True,False,True,False,False,False,True,True,True,True
+Rokid Project Aurora,True,True,True,True,False,False,True,False,True,True,True,True,True,False,True,False,True,True,False,False,True,False,True,True,True,True
 Tesseract holoboard Premium Edition,False,True,True,True,False,True,False,True,True,True,False,True,True,True,True,False,True,True,False,False,True,False,True,True,True,False
 Aryzon AR Headset,True,True,True,True,False,True,True,True,True,False,True,True,True,True,False,True,True,True,True,False,True,False,True,True,True,True
-Mira Prism,False,True,True,False,False,False,False,True,False,False,True,True,False,True,False,False,False,False,False,False,False,True,False,True,False,False
-Realmax Qian,False,True,True,False,False,False,False,True,False,True,True,True,False,False,False,False,True,False,True,False,False,False,False,True,True,False
-ANTVR MIX,False,False,True,False,False,False,False,True,False,True,True,True,False,False,False,False,True,False,False,True,True,True,False,True,True,True
+Mira Prism,False,False,True,False,False,False,False,True,False,False,True,True,False,True,False,False,False,False,False,False,False,True,False,True,False,False
+Realmax Qian,False,True,True,False,False,False,False,True,False,False,True,True,False,False,False,False,True,False,True,False,False,False,False,True,True,False
+ANTVR MIX,False,False,True,False,False,False,False,True,False,False,True,True,False,False,False,False,True,False,False,True,True,True,False,True,True,True
 Shadow Creator Action One,False,True,True,False,False,False,False,True,False,True,True,True,False,False,False,False,True,False,True,True,False,False,False,True,True,False
 Google Glass Enterprise Edition 2,True,True,True,True,False,True,True,False,False,True,True,True,True,True,False,False,True,True,True,True,True,True,True,True,True,True
 Everysight Raptor,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False,False,False,False,False,True,True,False,False,True,False,False
 Toshiba dynaEdge AR100 Viewer,False,False,True,False,False,False,False,True,False,False,True,True,True,True,False,False,False,False,True,True,True,False,False,True,False,False
 Varjo XR-1,False,True,False,True,False,False,False,False,True,False,True,True,True,True,True,False,True,True,True,False,True,True,True,True,True,True
-Lightform (projector),True,True,True,True,True,False,False,False,True,False,True,True,False,False,False,False,False,True,False,False,False,False,False,True,False,False
+Lightform (projector),False,True,True,True,True,False,False,False,True,False,True,True,False,False,False,False,False,True,False,False,False,False,False,True,False,False
 Bose Frames Alto / Rondo,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
 Zungle Viper,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
 Vue Glasses,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
