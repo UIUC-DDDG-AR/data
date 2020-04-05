@@ -1,5 +1,5 @@
 name,type,description,official_link,key_features,price,open_source_link,use_cases,curstomer_segment,related_softwares,related_hardwares,documentation_link,popularity,release_date,version,company,limitations,notes
-Vuforia,software,"Vuforia is an engine supported in Unity. Vuforia is its own AR tech that runs in both iOS and Android and can run on older phones. Vuforia will use ARKit/ARCore tech if the hardware will support it. Vuforia also has other advanced features like image tracking, motion planning.",https://developer.vuforia.com/,,"Free to use, paid to publish
+Vuforia,Software,"Vuforia is an engine supported in Unity. Vuforia is its own AR tech that runs in both iOS and Android and can run on older phones. Vuforia will use ARKit/ARCore tech if the hardware will support it. Vuforia also has other advanced features like image tracking, motion planning.",https://developer.vuforia.com/,,"Free to use, paid to publish
 ",,"Claims to be the most sophisticated and advanced AR content development solution
 ","Largest segment is to help industrial enterprise customers address workforce challenges and meet business goals.
 ","RKit, ARCore, Vuforia, 8th Wall
@@ -8,60 +8,71 @@ Vuforia,software,"Vuforia is an engine supported in Unity. Vuforia is its own AR
 ",,,"Unity Technologies, Qualcomm
 ","Vuforia is an old well-developed and great product. That supports the widest range of products.  There are no significant limitations of Vuforia when compare to ARCore and ARKitFor both apple and android. Costs money to publish application.
 ",
-OpenCV,software,,,,,,,,,,,,,,,,
-Unity3D,software,"Key features: Great for cross platform development, 
+OpenCV,Software,OpenCV (Open source computer vision) is a library of programming functions mainly aimed at real-time computer vision.,https://opencv.org/,,,,,,,,https://docs.opencv.org/,,,,,,
+Unity3D,Software,"Key features: Great for cross platform development, 
 Language required: C# or JavaScript
 One of the few great VR/AR real-time development tools
 Asset store, 
 Great documentation
 Different rendering pipelines for different hardwares specs (HighDefinitionRenderingPipeline for AAA games and Universal Rendering Pipeline for mobile)
 Friendly with many great softwares related to 3D real time development
-",https://unity.com/,,"Free for hobby development. 
+",https://unity.com/,"Great for cross platform development, language required: C# or JavaScript, one of the few great VR/AR real-time development tools, Asset store, Great documentation, Different rendering pipelines for different hardwares specs (HighDefinitionRenderingPipeline for AAA games and Universal Rendering Pipeline for mobile), friendly with many great softwares related to 3D real time development","Free for hobby development. 
 Pro License is $150 a month for professional development;
-If one’s team grows and the game generates more revenue, Unity would charge more.",,Game development,,"Unreal, 3DS Max, Adobe Substance, Maya","Windows, Mac OS, Linux Desktop, iOS, Android, Xbox, Unity Web Player, PS VR, PS3, PS4, Google Cardboard, Oculus Rift, Android TV, WiiU, SamsungTV",https://docs.unity3d.com/Manual/index.html,One of the top choices,"Jun 8th, 2005",2019.3.1,Unity Technologies,"Graphics, 
+If one’s team grows and the game generates more revenue, Unity would charge more.",,Game development,,"Unreal, 3DS Max, Adobe Substance, Maya","Windows, Mac OS, Linux Desktop, iOS, Android, Xbox, Unity Web Player, PS VR, PS3, PS4, Google Cardboard, Oculus Rift, Android TV, WiiU, SamsungTV",https://docs.unity3d.com/Manual/index.html,One of the top choices,"June 8th, 2005",2019.3.1,Unity Technologies,"Graphics, 
 Does not allow you to load your work from a template or foundation, Licensing is annoying,
-Language: C#",
-Wikitude SDK,software,"
-Key features: Cloud AR, Geo AR, cross-platform with multiple language support",https://www.wikitude.com/products/wikitude-sdk/,,"Free trial; one-time fee: demo (499 euro), SDK Startup (499 euro), SDK Pro 3D (2490 euro); subscription: 2990+ euro",,,,,,https://www.wikitude.com/about/,,"Dec 1st, 2019",8.10.x,Wikitude,Demo youtube video seems subpar.,
-Spark AR,software,,,"Extensive Face Tracking (with face mesh), Plane tracking, Hand Tracking (no gesture)",,,"Camera filters
-",," SparkAR Hub, Instagram, Facebook",,"https://sparkar.facebook.com/ar-studio/learn/documentation/reference/scripting/summary/
-",,2017,,,"Limited hand tracking, submission requires review process, only works on Facebook and Instagram apps.",
-ManoMotion,software,,,,Free,,,,,,,,,,Facebook,,
-Unreal Engine,software,"Key features:Technical art pipeline, world building, animation, simulation, optimization
+Language: C#","Unity has great resources for developers to dive in. The company has many new feature presentations, tutorials, documentation on codes and on collaboration with leading companies in real time industries."
+Wikitude_SDK,Software,,https://www.wikitude.com/products/wikitude-sdk/,"
+Cloud AR, Geo AR, cross-platform with multiple language support","Free trial; one-time fee: demo (499 euro), SDK Startup (499 euro), SDK Pro 3D (2490 euro); subscription: 2990+ euro",,,,Wikitude editor,"Mobile, Smart-glasses, Web",https://www.wikitude.com/about/,,"December 1st, 2019",8.10.x,Wikitude,Demo youtube video seems subpar.,"Once developed web AR called “AR Window” in 2012.
+Didn’t find anything about web AR development since then."
+SparkAR,Software,,,"Extensive Face Tracking (with face mesh), Plane tracking, Hand Tracking (no gesture)",Free,,"Camera filters
+",,"SparkAR Hub, Instagram, Facebook",,"https://sparkar.facebook.com/ar-studio/learn/documentation/reference/scripting/summary/
+",,2017,,Facebook,"Limited hand tracking, submission requires review process, only works on Facebook and Instagram apps.",
+ManoMotion,Software,"ManoMotion provides a framework for real- time 3D gestural analysis. Minimal hardware, minimal computing power. All that’s required is a simple RGB camera found in everyday smartphone.",https://www.manomotion.com/,,Free,,,,,,,,,,Facebook,,
+Unreal_Engine,Software,"Key features:Technical art pipeline, world building, animation, simulation, optimization
 One of the few great VR/AR real-time development tools
 Offers one of the best graphics in real time development
 Artist friendly software (no coding required)
-Language supported: C++, Blueprints(visual programming)",,"Technical art pipeline, world building, animation, simulation, optimization
-One of the few great VR/AR real-time development tools
-Offers one of the best graphics in real time development
-Artist friendly software (no coding required)
-Language supported: C++, Blueprints(visual programming)","Free for hobby development.
+Language supported: C++, Blueprints(visual programming)",,"Technical art pipeline, world building, animation, simulation, optimization One of the few great VR/AR real-time development tools Offers one of the best graphics in real time development, Artist friendly software (no coding required), Language supported: C++, Blueprints(visual programming)","Free for hobby development.
 5% royalty fee after the first 3000 dollars earned for professionals.
 ",,,"Game development
 Architecture Visualization
 ",Unity,"
 Windows, macOS, Linux, SteamOS, HTML5, iOS, Android, Nintendo Switch, PlayStation 4, Xbox One, Magic Leap One, and virtual reality (SteamVR/HTC Vive, Oculus Rift, PlayStation VR, Google Daydream, OSVR and Samsung Gear VR",https://docs.unrealengine.com/en-US/index.html,,"May 1st, 1998",4.24,Epic Games,"No support of Vuforia, less convenient for 2D",Not good for solo devs apparently
-ARKit,software,Framework from Apple for building AR apps and games for iOS devices. High level API supplying powerful features for creating virtual objects. Utilizes SLAM to accurately map the surroundings.,,,"Free to use, paid to publish",,"Pokemon Go, Ikea Place, Snapchat
-","iOS AR developers
-",,," https://developer.apple.com/documentation/arkit/
+ARKit,Software,Framework from Apple for building AR apps and games for iOS devices. High level API supplying powerful features for creating virtual objects. Utilizes SLAM to accurately map the surroundings.,,,"Free to use, paid to publish",,,"iOS AR developers
+","Pokemon Go, Ikea Place, Snapchat",," https://developer.apple.com/documentation/arkit/
 ","Most used framework for iOS AR applications
-","Jul 1st, 2017",,Apple,"Apple: “Tracking is an inexact science. It relies on details of the physical environment that aren’t always consistent or are difficult to measure in real time without some degree of error.” https://developer.apple.com/documentation/arkit/understanding_world_trackingApple devices iPhone SE, iPhone 6s and later, iPad 2017 and later, all iPad Pro models",
-ARCore,software,"Google’s platform for building AR experiences, using different APIs ARCore enables your phone to sense its environment, understand the world and interact with information.",,,Free ,,AR app building platform for Android devices.,"Android app users
-",,,https://developers.google.com/ar/discover,,"Mar 1st, 2018","1.15.0
-",Google,"Supported devices: Google Pixel, Pixel XL, Pixel 2, Pixel 2 XL, Samsung Galaxy S8
+","July 1st, 2017",,Apple,"Apple: “Tracking is an inexact science. It relies on details of the physical environment that aren’t always consistent or are difficult to measure in real time without some degree of error.” https://developer.apple.com/documentation/arkit/understanding_world_trackingApple devices iPhone SE, iPhone 6s and later, iPad 2017 and later, all iPad Pro models",
+ARCore,Software,"Google’s platform for building AR experiences, using different APIs ARCore enables your phone to sense its environment, understand the world and interact with information.",,,Free ,,AR app building platform for Android devices.,"Android app users
+",,,https://developers.google.com/ar/discover,,"Mar 1st, 2018",1.15.0,Google,"Supported devices: Google Pixel, Pixel XL, Pixel 2, Pixel 2 XL, Samsung Galaxy S8
 ",
-AR.js ,software,,,,,,,,,,,,,,,,
-8th Wall ,software,,,,,,,,,,,,,,,,
-Three.js ,software,Three.js is a cross-browser JavaScript library and Application Programming Interface (API) used to create and display animated 3D computer graphics in a web browser.,,,Free,https://github.com/mrdoob/three.js/,Lots of them https://www.awwwards.com/websites/three-js/,,8th wall,"Three.js runs in all browsers supported by WebGL 1.0.
-Android smartphone, Google Daydream, Oculus Go, Oculus Rift, Vive, Samsung Gear VR., an iPhone with a WebXR browser",https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene,,,r113,Ricardo Cabello,AR technology special for Three.js has not been released. AR capability relays on the 8th wall. Low level development tool in VR section. Syntax / commands keep changing,
-A-Frame ,software,A-Frame is a three.js framework with an entity-component-system (ECS) architecture.,,,,https://github.com/aframevr/," https://aframe.io/showcase/
+AR_js ,Software,"AR. js is a lightweight library for Augmented Reality on the Web, coming with features like Marker based and Location based AR.",,,,,,,,,,,,,,,
+8th_Wall ,Software,"8th Wall enables developers to create, collaborate and publish Web AR experiences that run directly in a mobile web browser.",https://www.8thwall.com/,"Include 6-Degrees of Freedom (6DoF)Tracking, Image Detection/Tracking, Instant Planar Surfaces, Lighting, World Points and Hit Tests.
+Support for popular 3D Framework",Agency 99/month Business 250$/month,https://github.com/8thwall/web,,,,,,Startups but very profession in web AR.,2016,,8th Wall Inc.,No free plans,
+Three_js ,Software,Three.js is a cross-browser JavaScript library and Application Programming Interface (API) used to create and display animated 3D computer graphics in a web browser.,https://threejs.org/,Good at building 3D models.,Free,https://github.com/mrdoob/three.js/,Lots of them https://www.awwwards.com/websites/three-js/,,8th wall,"Three.js runs in all browsers supported by WebGL 1.0.
+Android smartphone, Google Daydream, Oculus Go, Oculus Rift, Vive, Samsung Gear VR., an iPhone with a WebXR browser",https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene,,,r113,Ricardo Cabello,AR technology special for Three.js has not been released. AR capability relays on the 8th wall. Low level development tool in VR section. Syntax / commands keep changing,"Using threex.artookit (the extension of Three.js) which is part of AR.js. 
+Develop AR relays on AR.js which is a higher level library built on Three.js.
+"
+A_Frame ,Software,A-Frame is a three.js framework with an entity-component-system (ECS) architecture.,https://aframe.io/,A-Frame is a three.js framework with an entity-component-system (ECS) architecture.,Free,https://github.com/aframevr/," https://aframe.io/showcase/
 ",,,"For browsers that support ARCore and ARKit. https://aframe.io/blog/aframe-v1.0.0/
 Supports most VR headsets such as Vive, Rift, Windows Mixed Reality, Daydream, GearVR, Cardboard, Oculus Go
-",https://aframe.io/docs/1.0.0/introduction/,Most biggest community,"Dec 1st, 2015",A-Frame v1.0.0,"Mozilla, Supermedium",,
-Amazon Sumerian ,software,,,,,,,,,,,,,,,,
-Babylon.js ,software,,,,,,,,,,,,,,,,
-PlayCanvas ,software,,,,,,,,,,,,,,,,
-Snapchat/Lens Studio,software,,,"facial recognition, ability for users to make their own custom filters ",Free,,,,"Spark AR, Snapchat
+",https://aframe.io/docs/1.0.0/introduction/,Most biggest community,"December 1st, 2015",A-Frame v1.0.0,"Mozilla, Supermedium",,"Can experiment AR on ARCore compatible devices and Chrome 79 or newer.
+Mature AR development with AR.js https://github.com/jeromeetienne/ar.js
+Works with 8th Wall easily. 
+Well developed, just like an online Unity. Also, good  Being based on top of HTML, A-Frame is accessible to everyone."
+Amazon_Sumerian ,Software,Augmented reality experiences built with Amazon Sumerian run on Android and iOS mobile devices without requiring native app downloads (based on WebGL 2.).,https://aws.amazon.com/sumerian/,"Focused, supports latest web browser technology","Charged for the total size of the 3D assets upload and store in Sumerian at the rate of $0.06 per GB per month.
+Free Tier, you can get started with Amazon Sumerian for free. Upon sign-up, new customers can create up to a 50MB published scene that receives the equivalence of 100 views (5GB) per month, for the first 12 months.",,,,,"Mobile browsers: iOS: Safari (iOS 11 or newer), Android: Chrome 66 or newer
+Desktop browsers: Firefox 61 or newer, Chrome 69 or newer
+VR browsers:Oculus browser
+VR headsets: HTC Vive, Vive Pro, Oculus Rift, Oculus Rift S, Oculus Go,Oculus Quest, Samsung Gear VR
+AR platforms:ARKit, ARCore",https://docs.sumerian.amazonaws.com/,A competition using it with 1276 participants.,2017,,Amazon,Not sure whether has an independent Web AR capability without 8th Wall ,"Work with 8th wall. Can also develop native apps. They did image tracking with 8th wall on web.
+Provide a library of primitive shapes, 3D models, hosts, textures, and scripts.
+"
+Babylon_js ,Software,Babylon.js is a real time 3D engine using a JavaScript library for displaying 3D graphics in a web browser via HTML5.,https://www.babylonjs.com/,Similar to unity,Free,https://github.com/BabylonJS/BabylonNative,https://doc.babylonjs.com/examples/,,,,https://doc.babylonjs.com/,,2013,4,Microsoft,Didn’t find many applications or use-case for AR development. May be not popular as A-Frame and PlayCanvas in AR development. ,"BabylonAR is a plugin intended to bring AR and computer vision functionality to Babylon.js Web apps.
+Also work with 8th Wall."
+PlayCanvas ,Software,PlayCanvas is an open-source[1] 3D game engine/interactive 3D application engine alongside a proprietary cloud-hosted creation platform that allows for simultaneous editing from multiple computers \via a browser-based interface,https://playcanvas.com/,,$50 / SEAT / MONTH,https://github.com/playcanvas,,,,modern devices with browsers that support WebGL,https://developer.playcanvas.com/en/tutorials/,,"June 4th, 2014",v1.24.7,"ARM, Activision and Mozilla",Have not updated the AR tools since 2017.  Maybe not mature/professional as the A-Frame in the AR section. ,"It has a mature web AR development tool using AR Starter Kit.
+Works with 8th Wall"
+Lens_Studio,Software,,,"facial recognition, ability for users to make their own custom filters ",Free,,"Snapchat face filters 
+",,"Spark AR, Snapchat
 ",,"https://lensstudio.snapchat.com/guides/
 ",,2017,2.3.1,"Snap Inc.
 ","lenses are only created for use on Snapchat
