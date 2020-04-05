@@ -27,8 +27,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "yes.",
-        "Name": "Annika"
+        "extended_tracking": "yes."
     },
     {
         "name": "OpenCV",
@@ -58,8 +57,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "no.",
-        "extended_tracking": "no.",
-        "Name": "Annika"
+        "extended_tracking": "no."
     },
     {
         "name": "Unity3D",
@@ -89,8 +87,7 @@
         "cloud_spatial_anchor": "yes. arcore",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "yes. w/ vuforia",
-        "Name": "Annika"
+        "extended_tracking": "yes. w/ vuforia"
     },
     {
         "name": "Wikitude_SDK",
@@ -120,8 +117,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "yes.",
-        "Name": "Annika"
+        "extended_tracking": "yes."
     },
     {
         "name": "SparkAR",
@@ -151,8 +147,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "no.",
-        "Name": "Mingi"
+        "extended_tracking": "no."
     },
     {
         "name": "ManoMotion",
@@ -182,8 +177,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "no.",
-        "Name": "Annika"
+        "extended_tracking": "no."
     },
     {
         "name": "Unreal_Engine",
@@ -213,8 +207,7 @@
         "cloud_spatial_anchor": "yes. arcore",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "yes. arkit",
-        "Name": "Annika"
+        "extended_tracking": "yes. arkit"
     },
     {
         "name": "ARKit",
@@ -244,8 +237,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "yes. w/ vuforia",
-        "Name": "Annika"
+        "extended_tracking": "yes. w/ vuforia"
     },
     {
         "name": "ARCore",
@@ -275,8 +267,7 @@
         "cloud_spatial_anchor": "yes.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "yes. w/ vuforia",
-        "Name": "Annika"
+        "extended_tracking": "yes. w/ vuforia"
     },
     {
         "name": "AR_js ",
@@ -306,8 +297,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "no.",
-        "Name": "Xuehao"
+        "extended_tracking": "no."
     },
     {
         "name": "8th_Wall ",
@@ -337,8 +327,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "no.",
-        "Name": "Xuehao"
+        "extended_tracking": "no."
     },
     {
         "name": "Three_js ",
@@ -368,8 +357,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "no.",
-        "Name": "Xuehao"
+        "extended_tracking": "no."
     },
     {
         "name": "A_Frame ",
@@ -399,8 +387,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "no.",
-        "Name": "Xuehao"
+        "extended_tracking": "no."
     },
     {
         "name": "Amazon_Sumerian ",
@@ -430,8 +417,7 @@
         "cloud_spatial_anchor": "yes.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "no.",
-        "Name": "Xuehao"
+        "extended_tracking": "no."
     },
     {
         "name": "Babylon_js ",
@@ -461,8 +447,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "no.",
-        "Name": "Xuehao"
+        "extended_tracking": "no."
     },
     {
         "name": "PlayCanvas ",
@@ -492,8 +477,7 @@
         "cloud_spatial_anchor": "yes.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "no.",
-        "Name": "Xuehao"
+        "extended_tracking": "no."
     },
     {
         "name": "Lens_Studio",
@@ -523,7 +507,6 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "yes. rotational",
-        "Name": "Annika"
+        "extended_tracking": "yes. rotational"
     }
 ]

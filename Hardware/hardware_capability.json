@@ -26,8 +26,7 @@
         "cloud_spatial_anchor": "yes supported by Azure",
         "show_2d_content": "yes. Can display 2D windows for some traditional apps",
         "show_3d_content": "yes.",
-        "extended_tracking": "yes.",
-        "Name": "Ishaan"
+        "extended_tracking": "yes."
     },
     {
         "name": "MagicLeap1",
@@ -56,8 +55,7 @@
         "cloud_spatial_anchor": "yes. spatial anchors are also shareable",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "yes.",
-        "Name": "Ishaan"
+        "extended_tracking": "yes."
     },
     {
         "name": "NrealLight",
@@ -86,8 +84,7 @@
         "cloud_spatial_anchor": "yes. can be created on nreal with unity + azure",
         "show_2d_content": "yes. mixed reality glasses",
         "show_3d_content": "yes. mixed reality glasses",
-        "extended_tracking": "yes. SLAM",
-        "Name": "Ishaan"
+        "extended_tracking": "yes. SLAM"
     },
     {
         "name": "Epson_Moverio_BT300",
@@ -116,8 +113,7 @@
         "cloud_spatial_anchor": "yes. can be created using Wikitude Augmented Reality SDK for Epson Moverio Smart Glasses",
         "show_2d_content": "yes",
         "show_3d_content": "yes",
-        "extended_tracking": "yes. Wikitude SDK SLAM",
-        "Name": "Ishaan"
+        "extended_tracking": "yes. Wikitude SDK SLAM"
     },
     {
         "name": "ThirdEye_Gen_X2",
@@ -146,8 +142,7 @@
         "cloud_spatial_anchor": "yes. VisionEye SLAM SDK",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "yes. VisionEye SLAM SDK",
-        "Name": "Anna"
+        "extended_tracking": "yes. VisionEye SLAM SDK"
     },
     {
         "name": "Vuzix_M400",
@@ -176,8 +171,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "no.",
-        "extended_tracking": "no.",
-        "Name": "Anna"
+        "extended_tracking": "no."
     },
     {
         "name": "Vuzix_Blade",
@@ -206,8 +200,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "no.",
-        "extended_tracking": "no.",
-        "Name": "Anna"
+        "extended_tracking": "no."
     },
     {
         "name": "Optinvent_ORA-2",
@@ -236,8 +229,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "no.",
-        "extended_tracking": "no.",
-        "Name": "Anna"
+        "extended_tracking": "no."
     },
     {
         "name": "Dreamworld_DreamGlass",
@@ -266,8 +258,7 @@
         "cloud_spatial_anchor": "yes.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "yes.",
-        "Name": "Anna"
+        "extended_tracking": "yes."
     },
     {
         "name": "Project_North_Star",
@@ -296,8 +287,7 @@
         "cloud_spatial_anchor": "yes.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "yes.",
-        "Name": "Anna"
+        "extended_tracking": "yes."
     },
     {
         "name": "Rokid_Project_Aurora",
@@ -326,8 +316,7 @@
         "cloud_spatial_anchor": "yes.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "yes.SLAM",
-        "Name": "Annika"
+        "extended_tracking": "yes.SLAM"
     },
     {
         "name": "Tesseract_Holoboard_Premium_Edition",
@@ -356,8 +345,7 @@
         "cloud_spatial_anchor": "yes.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "no.",
-        "Name": "Annika"
+        "extended_tracking": "no."
     },
     {
         "name": "Aryzon_AR_Headset",
@@ -386,8 +374,7 @@
         "cloud_spatial_anchor": "yes. arcore/arkit",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "yes. arcore/arkit",
-        "Name": "Annika"
+        "extended_tracking": "yes. arcore/arkit"
     },
     {
         "name": "Mira_Prism",
@@ -416,8 +403,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "no.",
-        "extended_tracking": "no.",
-        "Name": "Annika"
+        "extended_tracking": "no."
     },
     {
         "name": "Realmax_Qian",
@@ -446,8 +432,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "no.",
-        "Name": "Xuehao"
+        "extended_tracking": "no."
     },
     {
         "name": "Antvr_Mix",
@@ -476,8 +461,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "yes.",
-        "Name": "Xuehao"
+        "extended_tracking": "yes."
     },
     {
         "name": "Shadow_Creator_Action_One",
@@ -506,8 +490,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "no.",
-        "Name": "Xuehao"
+        "extended_tracking": "no."
     },
     {
         "name": "Google_Glass_Enterprise_Edition_2",
@@ -536,8 +519,7 @@
         "cloud_spatial_anchor": "yes. but not sure through cloud. Support for users collaborating in real time",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "yes.",
-        "Name": "Shawn"
+        "extended_tracking": "yes."
     },
     {
         "name": "Everysight_Raptor",
@@ -566,8 +548,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "no.",
-        "extended_tracking": "no.",
-        "Name": "Rizky"
+        "extended_tracking": "no."
     },
     {
         "name": "Toshiba_DynaEdge_AR100",
@@ -596,8 +577,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes. (one can pull up docs like pdf for side assistance)",
         "show_3d_content": "no.",
-        "extended_tracking": "no.",
-        "Name": "Shawn"
+        "extended_tracking": "no."
     },
     {
         "name": "Varjo_XR1",
@@ -626,8 +606,7 @@
         "cloud_spatial_anchor": "yes.",
         "show_2d_content": "yes.",
         "show_3d_content": "yes.",
-        "extended_tracking": "yes.",
-        "Name": "Shawn"
+        "extended_tracking": "yes."
     },
     {
         "name": "Lightform",
@@ -656,8 +635,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "yes.",
         "show_3d_content": "no.",
-        "extended_tracking": "no.",
-        "Name": "Mingi"
+        "extended_tracking": "no."
     },
     {
         "name": "Bose_Frames_Alto_Rondo",
@@ -686,8 +664,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "no.",
         "show_3d_content": "no.",
-        "extended_tracking": "no.",
-        "Name": "Aspen"
+        "extended_tracking": "no."
     },
     {
         "name": "Zungle_Viper",
@@ -716,8 +693,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "no.",
         "show_3d_content": "no.",
-        "extended_tracking": "no.",
-        "Name": "Aspen"
+        "extended_tracking": "no."
     },
     {
         "name": "Vue_Glasses",
@@ -746,8 +722,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "no.",
         "show_3d_content": "no.",
-        "extended_tracking": "no.",
-        "Name": "Aspen"
+        "extended_tracking": "no."
     },
     {
         "name": "Echo_Frames",
@@ -776,8 +751,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "no.",
         "show_3d_content": "no.",
-        "extended_tracking": "no.",
-        "Name": "Aspen"
+        "extended_tracking": "no."
     },
     {
         "name": "Tactsuit",
@@ -806,8 +780,7 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "no.",
         "show_3d_content": "no.",
-        "extended_tracking": "no.",
-        "Name": "Aspen"
+        "extended_tracking": "no."
     },
     {
         "name": "Vest_Pro_Strap",
@@ -836,7 +809,6 @@
         "cloud_spatial_anchor": "no.",
         "show_2d_content": "no.",
         "show_3d_content": "no.",
-        "extended_tracking": "no.",
-        "Name": "Aspen"
+        "extended_tracking": "no."
     }
 ]
