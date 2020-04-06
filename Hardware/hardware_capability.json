@@ -91,7 +91,7 @@
         ],
         "cloud_spatial_anchor": [
             1,
-            "upported by Azure"
+            "supported by Azure"
         ],
         "show_2d_content": [
             1,
@@ -265,7 +265,7 @@
         ],
         "audio_calling": [
             1,
-            "\"Nreal glasses are now compatible with Android native apps, which means as long as the app is installed on the devices, users can view all app activity through their glasses.\""
+            "Nreal glasses are now compatible with Android native apps, which means as long as the app is installed on the devices, users can view all app activity through their glasses."
         ],
         "video_streaming": [
             2,

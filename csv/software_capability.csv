@@ -2,7 +2,7 @@ name,object_recognition,dof_6,dof_3,room_scene_tracking,image_tracking,facial_re
 Vuforia,"yes. models targets + deep learning targets note:To recognize 3d objects: needs to be opaque, solid, few moving parts, high contrast coloring, convex, uniform shape. ",yes.,yes.,no.,yes.,no.,yes.,no.,no.,no.,yes. w/ external cam,yes.,yes. chalk,yes. chalk,no.,yes.,no.,yes. vuforia engine,no.,yes.,no.,yes. chalk,no.,no.,yes.,yes.,yes.
 OpenCV,yes. long/complex dev time,yes.,yes.,yes.,yes. ArUCO provides a robust and fast camera pose estimation.,yes. with opencv plugin,no.,yes.,no.,yes.,yes.,yes.,no.,no.,yes.,"yes. AKAZE, ORB",no.,yes.,yes.,yes. c++,no.,no.,no.,no.,yes.,no.,no.
 Unity3D,yes. with OpenCV plugin,yes. 8th wall,yes.,yes. w/ wikitude sdk,yes. 8th wall,yes. with opencv plugin,yes. arcore,yes.,yes. arkit,"yes. opencv, manomotion",yes.,yes.,no.,no.,yes.,yes.,yes. w/ ar foundation,yes. vuforia engine,yes. arkit,yes. 8th wall,yes.,yes.,"yes. pupilcore,Tobii SDK",yes. arcore,yes.,yes.,yes. w/ vuforia
-Wikitude_SDK,yes.,yes.,yes.,yes.,yes.,no.,yes.,yes.,yes. arkit 3,no.,yes. screenshot,yes.,no.,no.,no.,yes.,yes. arkit,yes.,yes.,no.,no.,yes.,no.,no.,yes.,yes.,yes.
+Wikitude_SDK,yes.,yes.,yes.,yes.,yes.,no.,yes.,yes.,yes. arkit3,no.,yes. screenshot,yes.,no.,no.,no.,yes.,yes. arkit,yes.,yes.,no.,no.,yes.,no.,no.,yes.,yes.,yes.
 SparkAR,yes. target tracking,yes.,yes.,no.,yes. only supports 1 at a time,yes. extensive support with facial mesh,no.,no.,no.,yes. only through facebook app,yes.,yes.,yes.,no.,"yes. w/ body 
 segmentation",yes.,yes. w/ body segmentation,no.,no.,yes.,"no.
 ",yes. supports touch gestures,yes. w/ iris tracking,no.,yes.,yes.,no.

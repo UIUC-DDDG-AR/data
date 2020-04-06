@@ -12,12 +12,12 @@
     {
         "key": "hand_tracking",
         "name": "Hand Tracking",
-        "descripton": "The capability to recognize hands_ movements and/or gestures. Hands can be used to interact with menus, models, and the environment. For example, it can be used to practice hands-on activities for education and training, such as surgeons and mechanics. (Current hand tracking is accurate but not from all angles/all situations)"
+        "descripton": "The capability to recognize hands\u2019 movements and/or gestures. Hands can be used to interact with menus, models, and the environment. For example, it can be used to practice hands-on activities for education and training, such as surgeons and mechanics. (Current hand tracking is accurate but not from all angles/all situations)"
     },
     {
         "key": "eye_tracking",
         "name": "Eye Tracking",
-        "descripton": "The capability to track where a person__ gaze is directed by using human-facing sensors. Applications include: detecting a person__ presence, attention, and focus, eye-controlled UI, and rendering optimization. Note: many AR hardwares do not have eye-tracking on but one can use add-ons, such as Pupil Core Binocular."
+        "descripton": "The capability to track where a person\u2019s gaze is directed by using human-facing sensors. Applications include: detecting a person\u2019s presence, attention, and focus, eye-controlled UI, and rendering optimization. Note: many AR hardwares do not have eye-tracking on but one can use add-ons, such as Pupil Core Binocular."
     },
     {
         "key": "extended_tracking",
@@ -47,7 +47,7 @@
     {
         "key": "facial_recognition",
         "name": "Facial Recognition",
-        "descripton": "Facial Recognition identifies or verifies a person, which generally works by creating a template of the target__ facial image and comparing the template to preexisted photos of faces. The template is created by use of measurements, distance between eye, width of nose, length of jaw line. Moreover, it can work by extracting landmarks such as a nose or eyes. In general, there are two approaches, geometric (shapes) or photometric (pixels). 3D facial recognition is not affected by lighting. Common applications include photo tagging, security, social media filters, and etc. One note is that for biometrics, it is less accurate than iris or fingerprint recognition."
+        "descripton": "Facial Recognition identifies or verifies a person, which generally works by creating a template of the target\u2019s facial image and comparing the template to preexisted photos of faces. The template is created by use of measurements, distance between eye, width of nose, length of jaw line. Moreover, it can work by extracting landmarks such as a nose or eyes. In general, there are two approaches, geometric (shapes) or photometric (pixels). 3D facial recognition is not affected by lighting. Common applications include photo tagging, security, social media filters, and etc. One note is that for biometrics, it is less accurate than iris or fingerprint recognition."
     },
     {
         "key": "location_tracking",
@@ -82,12 +82,12 @@
     {
         "key": "telepresence",
         "name": "Telepresence",
-        "descripton": "Telepresence refers to a set of technologies which allow a person to feel as if they were present, to give the appearance of being present, or to have an effect. One approach is to capture a person__ appearance and body movements and present a hologram of them to the other connected device in real time, as if the person is present in another user__ context."
+        "descripton": "Telepresence refers to a set of technologies which allow a person to feel as if they were present, to give the appearance of being present, or to have an effect. One approach is to capture a person\u2019s appearance and body movements and present a hologram of them to the other connected device in real time, as if the person is present in another user\u2019s context."
     },
     {
         "key": "lighting_estimation",
         "name": "Light Estimation",
-        "descripton": "The capability to detect the lighting data of the user__ environment. Some AR features need lighting data for better performance and/or user-experiences. For example, it can be used to adjust intensity and colors of the virtual content to be more visible."
+        "descripton": "The capability to detect the lighting data of the user\u2019s environment. Some AR features need lighting data for better performance and/or user-experiences. For example, it can be used to adjust intensity and colors of the virtual content to be more visible."
     },
     {
         "key": "cross_platform",
@@ -102,7 +102,7 @@
     {
         "key": "voice_recognition",
         "name": "Voice Recognition",
-        "descripton": "The capability to recognize humans_ speeches. Voice recognition is commonly used to perform commands on a device or multiple connected devices so that users don__ have to use a mouse, keyboarch or press any buttons. Use cases include voice dialing, domotic appliance control in smart homes, and etc."
+        "descripton": "The capability to recognize humans\u2019 speeches. Voice recognition is commonly used to perform commands on a device or multiple connected devices so that users don\u2019t have to use a mouse, keyboarch or press any buttons. Use cases include voice dialing, domotic appliance control in smart homes, and etc."
     },
     {
         "key": "hand_controls",
