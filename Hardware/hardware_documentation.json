@@ -9,21 +9,21 @@
         "how_to_buy": "contact the sales team",
         "use_cases": [
             "Remote Assist",
-            " Industrial Medical and Educational Training",
-            " Games & Entertainment"
+            "Industrial Medical and Educational Training",
+            "Games & Entertainment"
         ],
         "customer_segment": [
             "Enterprise",
-            " developers"
+            "developers"
         ],
         "related_softwares": [
             "Dynamics 365 Remote Assist",
-            " Azure Spatial Anchors",
-            " Remote Rendering",
-            " Azure Digital Twins",
-            " Unity",
-            " PiXYZ",
-            " Microsoft Edge"
+            "Azure Spatial Anchors",
+            "Remote Rendering",
+            "Azure Digital Twins",
+            "Unity",
+            "PiXYZ",
+            "Microsoft Edge"
         ],
         "related_hardwares": [
             "Azure Kinect DK"
@@ -40,11 +40,11 @@
         "field_of_view": 52,
         "possible_interactions": [
             "Hand tracking",
-            " Eye tracking",
-            " Voice recognition",
-            " Windows Hello",
-            " Spatial Mapping(means Real-time environment mesh)",
-            " Mixed Reality Capture(means Mixed hologram and physical environment photos and videos)"
+            "Eye tracking",
+            "Voice recognition",
+            "Windows Hello",
+            "Spatial Mapping(means Real-time environment mesh)",
+            "Mixed Reality Capture(means Mixed hologram and physical environment photos and videos)"
         ],
         "limitations": "FoV still isn\u2019t big enough\nHand tracking has to be in view",
         "notes": "Difficult to order"
@@ -59,18 +59,18 @@
         "how_to_buy": "online",
         "use_cases": [
             "Games & Entertainment",
-            " Training",
-            " Architecture"
+            "Training",
+            "Architecture"
         ],
         "customer_segment": [
             "Enterprise",
-            " consumers",
-            " developers"
+            "consumers",
+            "developers"
         ],
         "related_softwares": [
             "Lumin SDK",
-            " Unity",
-            " Unreal Engine"
+            "Unity",
+            "Unreal Engine"
         ],
         "related_hardwares": [
             ""
@@ -87,9 +87,9 @@
         "field_of_view": 50,
         "possible_interactions": [
             "eye tracking",
-            " hand tracking 8 gestures",
-            " spatial tracking",
-            " 6dof controller"
+            "hand tracking 8 gestures",
+            "spatial tracking",
+            "6dof controller"
         ],
         "limitations": "tethered power unit, limited hand motions, limited field of view",
         "notes": "slightly worse world tracking than hololens, behind in terms of content compared to hololens 2"
@@ -104,16 +104,16 @@
         "how_to_buy": "available for sale in early 2020",
         "use_cases": [
             "Everyday use and wear",
-            " Games & Entertainment"
+            "Games & Entertainment"
         ],
         "customer_segment": [
             "Consumers",
-            " developers"
+            "developers"
         ],
         "related_softwares": [
             "nrsdk",
-            " Unity",
-            " Unreal Engine"
+            "Unity",
+            "Unreal Engine"
         ],
         "related_hardwares": [
             "Android phones"
@@ -130,7 +130,7 @@
         "field_of_view": 52,
         "possible_interactions": [
             "spatial tracking",
-            " 3dof controller"
+            "3dof controller"
         ],
         "limitations": "tethered",
         "notes": "Users could add on lenses to fit to one\u2019s eyesight; The glass is lightweight and quite fashionable."
@@ -145,23 +145,23 @@
         "how_to_buy": "online",
         "use_cases": [
             "Education",
-            " fitness training",
-            " sports",
-            " drone",
-            " watch videos"
+            "fitness training",
+            "sports",
+            "drone",
+            "watch videos"
         ],
         "customer_segment": [
             "Consumers",
-            " developers"
+            "developers"
         ],
         "related_softwares": [
             "Moverio SDK",
-            " wikitude",
-            " augumenta"
+            "wikitude",
+            "augumenta"
         ],
         "related_hardwares": [
             "DJI Drones",
-            " phones"
+            "phones"
         ],
         "documentation_link": "https://epson.com/moverio-augmented-reality-developers?pg=5#",
         "popularity": "popular in DJI drone industry",
@@ -189,15 +189,15 @@
         "how_to_buy": "In production",
         "use_cases": [
             "Remote Assist",
-            " Game & Entertainment",
-            " Industrial",
-            " Medical and Educational Training",
-            " Architecture"
+            "Game & Entertainment",
+            "Industrial",
+            "Medical and Educational Training",
+            "Architecture"
         ],
         "customer_segment": [
             "Enterprise",
-            " consumers",
-            " developers"
+            "consumers",
+            "developers"
         ],
         "related_softwares": [
             "VisionEye SLAM SDK"
@@ -217,8 +217,8 @@
         "field_of_view": 42,
         "possible_interactions": [
             "6dof",
-            " gestures",
-            " voice commands"
+            "gestures",
+            "voice commands"
         ],
         "limitations": "",
         "notes": "3D tracking, occlusion, indoor/outdoor use"
@@ -233,7 +233,7 @@
         "how_to_buy": "online",
         "use_cases": [
             "Warehouse scanning",
-            " Remote Assist"
+            "Remote Assist"
         ],
         "customer_segment": [
             "enterprise"
@@ -256,9 +256,9 @@
         "field_of_view": 17,
         "possible_interactions": [
             "multi finger tracking",
-            " 3dof",
-            " motion tracking",
-            " touchpad"
+            "3dof",
+            "motion tracking",
+            "touchpad"
         ],
         "limitations": "",
         "notes": ""
@@ -273,19 +273,19 @@
         "how_to_buy": "online",
         "use_cases": [
             "Smart phones displays",
-            " daily wear and use"
+            "daily wear and use"
         ],
         "customer_segment": [
             "Consumers"
         ],
         "related_softwares": [
             "Vuzix app on phones",
-            " Amazon Alexa",
-            " Google assistance"
+            "Amazon Alexa",
+            "Google assistance"
         ],
         "related_hardwares": [
             "Android smart phones",
-            " Iphones"
+            "Iphones"
         ],
         "documentation_link": "",
         "popularity": "",
@@ -299,7 +299,7 @@
         "field_of_view": "",
         "possible_interactions": [
             "touchpad",
-            " voice commands"
+            "voice commands"
         ],
         "limitations": "unable to interact with the virtual contents",
         "notes": ""
@@ -314,7 +314,7 @@
         "how_to_buy": "online",
         "use_cases": [
             "Smart phones displays",
-            " daily wear and use"
+            "daily wear and use"
         ],
         "customer_segment": [
             "Consumers"
@@ -360,8 +360,8 @@
         ],
         "related_hardwares": [
             "Smart phones",
-            " PC",
-            " game consoles"
+            "PC",
+            "game consoles"
         ],
         "documentation_link": "https://www.dreamworldvision.com/developers",
         "popularity": "",
@@ -375,7 +375,7 @@
         "field_of_view": 90,
         "possible_interactions": [
             "3dof (6dof with addons)",
-            " limited hand gestures"
+            "limited hand gestures"
         ],
         "limitations": "advertised for screen mirror",
         "notes": "currently developing iOS compatibility"
@@ -426,12 +426,12 @@
         "how_to_buy": "through manufacture",
         "use_cases": [
             "Daily wear and use",
-            " game & entertainment",
-            " remote assistance"
+            "game & entertainment",
+            "remote assistance"
         ],
         "customer_segment": [
             "Consumers",
-            " enterprise"
+            "enterprise"
         ],
         "related_softwares": [
             ""
@@ -451,8 +451,8 @@
         "field_of_view": 33,
         "possible_interactions": [
             "gesture recognition",
-            " voice commands",
-            " touchpad"
+            "voice commands",
+            "touchpad"
         ],
         "limitations": "",
         "notes": "capable of face recognition and object recognition using SLAM Corrective lenses available"
@@ -467,8 +467,8 @@
         "how_to_buy": "online",
         "use_cases": [
             "Games & Entertainment",
-            " Training",
-            " Architecture"
+            "Training",
+            "Architecture"
         ],
         "customer_segment": [
             "consumers"
@@ -478,9 +478,9 @@
         ],
         "related_hardwares": [
             "enterprise edition(same as premium but doesn\u2019t have hand tracking module)",
-            " basic edition (no hand tracking",
-            " 3dof controller",
-            " compatible with iOS)"
+            "basic edition (no hand tracking",
+            "3dof controller",
+            "compatible with iOS)"
         ],
         "documentation_link": "",
         "popularity": "",
@@ -544,11 +544,11 @@
         "how_to_buy": "online",
         "use_cases": [
             "Remote assistance",
-            " game & entertainment"
+            "game & entertainment"
         ],
         "customer_segment": [
             "Consumers",
-            " enterprise"
+            "enterprise"
         ],
         "related_softwares": [
             "Workflow builder (on its website)"
@@ -604,7 +604,7 @@
         "field_of_view": 101,
         "possible_interactions": [
             "3dof controller",
-            " 6dof"
+            "6dof"
         ],
         "limitations": "",
         "notes": ""
@@ -641,9 +641,9 @@
         "field_of_view": 96,
         "possible_interactions": [
             "2 3dof controllers",
-            " hand tracking",
-            " eye tracking",
-            " 6dof"
+            "hand tracking",
+            "eye tracking",
+            "6dof"
         ],
         "limitations": "",
         "notes": "usable with glasses"
@@ -694,14 +694,14 @@
         "how_to_buy": "contact the sales team",
         "use_cases": [
             "remote assistance",
-            " training"
+            "training"
         ],
         "customer_segment": [
             "enterprise"
         ],
         "related_softwares": [
             "Voice Commands",
-            " runs on Android Open Source Platform"
+            "runs on Android Open Source Platform"
         ],
         "related_hardwares": [
             ""
@@ -718,9 +718,9 @@
         "field_of_view": "",
         "possible_interactions": [
             "Voice commands",
-            " Multi-touch gesture touchpad",
-            " Power-saving features On head detection sensor",
-            " and Eye-on screen sensor"
+            "Multi-touch gesture touchpad",
+            "Power-saving features On head detection sensor",
+            "and Eye-on screen sensor"
         ],
         "limitations": "no hand tracking and not designed to be immersive",
         "notes": ""
@@ -741,7 +741,7 @@
         ],
         "related_softwares": [
             "Everysight Smartphone Companion App (IOS",
-            " Android)"
+            "Android)"
         ],
         "related_hardwares": [
             ""
@@ -758,10 +758,10 @@
         "field_of_view": "",
         "possible_interactions": [
             "touchpad or bluetooth controller Raptor is controlled via an integrated touchpad in the frames",
-            " supporting familiar swipe and tap gestures",
-            " even when one is wearing gloves. Voice control is also available for key actions like recording a video",
-            " taking a pic",
-            " and adjusting volume/ brightness."
+            "supporting familiar swipe and tap gestures",
+            "even when one is wearing gloves. Voice control is also available for key actions like recording a video",
+            "taking a pic",
+            "and adjusting volume/ brightness."
         ],
         "limitations": "see what I wrote",
         "notes": ""
@@ -776,11 +776,11 @@
         "how_to_buy": "online",
         "use_cases": [
             "The dynaEdge\u2122 AR Smart Glasses enable multiple usage scenarios",
-            " including See-What-I-See",
-            " Remote Expert",
-            " Document Retrieval",
-            " Workflow Instructions and Real-Time Data Capture",
-            " making it the enterprise solution for tomorrow\u2014starting today."
+            "including See-What-I-See",
+            "Remote Expert",
+            "Document Retrieval",
+            "Workflow Instructions and Real-Time Data Capture",
+            "making it the enterprise solution for tomorrow\u2014starting today."
         ],
         "customer_segment": [
             "enterprise"
@@ -820,12 +820,12 @@
         ],
         "customer_segment": [
             "consumers",
-            " developers"
+            "developers"
         ],
         "related_softwares": [
             "Unity",
-            " Unreal Engine",
-            " Open XR"
+            "Unreal Engine",
+            "Open XR"
         ],
         "related_hardwares": [
             ""
@@ -856,19 +856,19 @@
         "how_to_buy": "online",
         "use_cases": [
             "Creating a projected AR experience",
-            " Creating interactive AR experience based on OSC commands from any device"
+            "Creating interactive AR experience based on OSC commands from any device"
         ],
         "customer_segment": [
             "consumers",
-            " artists & designers"
+            "artists & designers"
         ],
         "related_softwares": [
             ""
         ],
         "related_hardwares": [
             "Laptop for creation",
-            " mobile for controls",
-            " projectors for projection"
+            "mobile for controls",
+            "projectors for projection"
         ],
         "documentation_link": "https://guide.lightform.com/hc/en-us",
         "popularity": "",
@@ -902,8 +902,8 @@
         ],
         "related_softwares": [
             "Bose Connect",
-            " Bluetooth",
-            " Bose AR (audio)"
+            "Bluetooth",
+            "Bose AR (audio)"
         ],
         "related_hardwares": [
             ""
@@ -934,18 +934,18 @@
         "how_to_buy": "online",
         "use_cases": [
             "Daily wearable",
-            " Running",
-            " hiking",
-            " biking Hearing navigation",
-            " Calls",
-            " talking to assistants"
+            "Running",
+            "hiking",
+            "biking Hearing navigation",
+            "Calls",
+            "talking to assistants"
         ],
         "customer_segment": [
             "consumers"
         ],
         "related_softwares": [
             "Siri",
-            " Google Assistant"
+            "Google Assistant"
         ],
         "related_hardwares": [
             ""
@@ -998,9 +998,9 @@
         "field_of_view": "",
         "possible_interactions": [
             "You can set gestures on the glasses that allow you to do a range of things like pick up/hang up phone calls",
-            " change songs",
-            " turn up volume",
-            " etc."
+            "change songs",
+            "turn up volume",
+            "etc."
         ],
         "limitations": "",
         "notes": ""
@@ -1051,11 +1051,11 @@
         "how_to_buy": "online, only TACTOT (Haptic Vest) is available to B2C (Consumer) clients. Other haptic devices are supposed to be used only for B2B (Enterprise) clients.\n",
         "use_cases": [
             "Gaming",
-            " Training",
-            " LBVR",
-            " Home Entertainment (theater",
-            " Concerts",
-            " movies)"
+            "Training",
+            "LBVR",
+            "Home Entertainment (theater",
+            "Concerts",
+            "movies)"
         ],
         "customer_segment": [
             "consumers"
@@ -1078,7 +1078,7 @@
         "field_of_view": "",
         "possible_interactions": [
             "Suit",
-            " so pretty much everything that is in contact with the sensors will be tracked"
+            "so pretty much everything that is in contact with the sensors will be tracked"
         ],
         "limitations": "",
         "notes": ""
@@ -1093,10 +1093,10 @@
         "how_to_buy": "online",
         "use_cases": [
             "Gaming",
-            " Home Theater (Movies",
-            " music)",
-            " Helping hearing-impaired people feel music/vibration",
-            " training"
+            "Home Theater (Movies",
+            "music)",
+            "Helping hearing-impaired people feel music/vibration",
+            "training"
         ],
         "customer_segment": [
             ""
@@ -1119,7 +1119,7 @@
         "field_of_view": "",
         "possible_interactions": [
             "All torso",
-            " hand movement"
+            "hand movement"
         ],
         "limitations": "",
         "notes": ""

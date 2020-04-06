@@ -58,11 +58,11 @@ with open(path_Hardware_information) as csv_H_capability:
 for item in data_H_information:
     if (item['field_of_view'] != ''):
         item['field_of_view'] = int(item['field_of_view']) 
-    item['use_cases'] = item['use_cases'].split(',')
-    item['related_softwares'] = item['related_softwares'].split(',')
-    item['related_hardwares'] = item['related_hardwares'].split(',')
-    item['customer_segment'] = item['customer_segment'].split(',')
-    item['possible_interactions'] = item['possible_interactions'].split(',')
+    item['use_cases'] = item['use_cases'].split(', ')
+    item['related_softwares'] = item['related_softwares'].split(', ')
+    item['related_hardwares'] = item['related_hardwares'].split(', ')
+    item['customer_segment'] = item['customer_segment'].split(', ')
+    item['possible_interactions'] = item['possible_interactions'].split(', ')
 
 with open("/Users/scottwang/Desktop/AR/data/Hardware/hardware_documentation.json", 'w') as f1:
     f1.write(json.dumps(data_H_information,indent=4))
@@ -73,9 +73,9 @@ with open(path_Software_information) as csv_S_capability:
     for csvRow in s_cap:
         data_S_information.append(csvRow)
 for item in data_S_information:
-    item['related_softwares'] = item['related_softwares'].split(',')
-    item['related_hardwares'] = item['related_hardwares'].split(',')   
-    item['key_features'] = item['key_features'].split(',')
+    item['related_softwares'] = item['related_softwares'].split(', ')
+    item['related_hardwares'] = item['related_hardwares'].split(', ')   
+    item['key_features'] = item['key_features'].split(', ')
         
 with open("/Users/scottwang/Desktop/AR/data/Software/software_documentation.json", 'w') as f1:
     f1.write(json.dumps(data_S_information,indent=4))

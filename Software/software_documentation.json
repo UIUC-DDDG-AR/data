@@ -13,9 +13,9 @@
         "curstomer_segment": "Largest segment is to help industrial enterprise customers address workforce challenges and meet business goals.\n",
         "related_softwares": [
             "RKit",
-            " ARCore",
-            " Vuforia",
-            " 8th Wall\n"
+            "ARCore",
+            "Vuforia",
+            "8th Wall\n"
         ],
         "related_hardwares": [
             ""
@@ -61,12 +61,12 @@
         "official_link": "https://unity.com/",
         "key_features": [
             "Great for cross platform development",
-            " language required: C# or JavaScript",
-            " one of the few great VR/AR real-time development tools",
-            " Asset store",
-            " Great documentation",
-            " Different rendering pipelines for different hardwares specs (HighDefinitionRenderingPipeline for AAA games and Universal Rendering Pipeline for mobile)",
-            " friendly with many great softwares related to 3D real time development"
+            "language required: C# or JavaScript",
+            "one of the few great VR/AR real-time development tools",
+            "Asset store",
+            "Great documentation",
+            "Different rendering pipelines for different hardwares specs (HighDefinitionRenderingPipeline for AAA games and Universal Rendering Pipeline for mobile)",
+            "friendly with many great softwares related to 3D real time development"
         ],
         "price": "Free for hobby development. \nPro License is $150 a month for professional development;\nIf one\u2019s team grows and the game generates more revenue, Unity would charge more.",
         "open_source_link": "",
@@ -74,26 +74,26 @@
         "curstomer_segment": "",
         "related_softwares": [
             "Unreal",
-            " 3DS Max",
-            " Adobe Substance",
-            " Maya"
+            "3DS Max",
+            "Adobe Substance",
+            "Maya"
         ],
         "related_hardwares": [
             "Windows",
-            " Mac OS",
-            " Linux Desktop",
-            " iOS",
-            " Android",
-            " Xbox",
-            " Unity Web Player",
-            " PS VR",
-            " PS3",
-            " PS4",
-            " Google Cardboard",
-            " Oculus Rift",
-            " Android TV",
-            " WiiU",
-            " SamsungTV"
+            "Mac OS",
+            "Linux Desktop",
+            "iOS",
+            "Android",
+            "Xbox",
+            "Unity Web Player",
+            "PS VR",
+            "PS3",
+            "PS4",
+            "Google Cardboard",
+            "Oculus Rift",
+            "Android TV",
+            "WiiU",
+            "SamsungTV"
         ],
         "documentation_link": "https://docs.unity3d.com/Manual/index.html",
         "popularity": "One of the top choices",
@@ -110,8 +110,8 @@
         "official_link": "https://www.wikitude.com/products/wikitude-sdk/",
         "key_features": [
             "\nCloud AR",
-            " Geo AR",
-            " cross-platform with multiple language support"
+            "Geo AR",
+            "cross-platform with multiple language support"
         ],
         "price": "Free trial; one-time fee: demo (499 euro), SDK Startup (499 euro), SDK Pro 3D (2490 euro); subscription: 2990+ euro",
         "open_source_link": "",
@@ -122,8 +122,8 @@
         ],
         "related_hardwares": [
             "Mobile",
-            " Smart-glasses",
-            " Web"
+            "Smart-glasses",
+            "Web"
         ],
         "documentation_link": "https://www.wikitude.com/about/",
         "popularity": "",
@@ -140,8 +140,8 @@
         "official_link": "",
         "key_features": [
             "Extensive Face Tracking (with face mesh)",
-            " Plane tracking",
-            " Hand Tracking (no gesture)"
+            "Plane tracking",
+            "Hand Tracking (no gesture)"
         ],
         "price": "Free",
         "open_source_link": "",
@@ -149,8 +149,8 @@
         "curstomer_segment": "",
         "related_softwares": [
             "SparkAR Hub",
-            " Instagram",
-            " Facebook"
+            "Instagram",
+            "Facebook"
         ],
         "related_hardwares": [
             ""
@@ -196,13 +196,13 @@
         "official_link": "",
         "key_features": [
             "Technical art pipeline",
-            " world building",
-            " animation",
-            " simulation",
-            " optimization One of the few great VR/AR real-time development tools Offers one of the best graphics in real time development",
-            " Artist friendly software (no coding required)",
-            " Language supported: C++",
-            " Blueprints(visual programming)"
+            "world building",
+            "animation",
+            "simulation",
+            "optimization One of the few great VR/AR real-time development tools Offers one of the best graphics in real time development",
+            "Artist friendly software (no coding required)",
+            "Language supported: C++",
+            "Blueprints(visual programming)"
         ],
         "price": "Free for hobby development.\n5% royalty fee after the first 3000 dollars earned for professionals.\n",
         "open_source_link": "",
@@ -213,21 +213,21 @@
         ],
         "related_hardwares": [
             "\nWindows",
-            " macOS",
-            " Linux",
-            " SteamOS",
-            " HTML5",
-            " iOS",
-            " Android",
-            " Nintendo Switch",
-            " PlayStation 4",
-            " Xbox One",
-            " Magic Leap One",
-            " and virtual reality (SteamVR/HTC Vive",
-            " Oculus Rift",
-            " PlayStation VR",
-            " Google Daydream",
-            " OSVR and Samsung Gear VR"
+            "macOS",
+            "Linux",
+            "SteamOS",
+            "HTML5",
+            "iOS",
+            "Android",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One",
+            "Magic Leap One",
+            "and virtual reality (SteamVR/HTC Vive",
+            "Oculus Rift",
+            "PlayStation VR",
+            "Google Daydream",
+            "OSVR and Samsung Gear VR"
         ],
         "documentation_link": "https://docs.unrealengine.com/en-US/index.html",
         "popularity": "",
@@ -251,8 +251,8 @@
         "curstomer_segment": "iOS AR developers\n",
         "related_softwares": [
             "Pokemon Go",
-            " Ikea Place",
-            " Snapchat"
+            "Ikea Place",
+            "Snapchat"
         ],
         "related_hardwares": [
             ""
@@ -324,10 +324,10 @@
         "official_link": "https://www.8thwall.com/",
         "key_features": [
             "Include 6-Degrees of Freedom (6DoF)Tracking",
-            " Image Detection/Tracking",
-            " Instant Planar Surfaces",
-            " Lighting",
-            " World Points and Hit Tests.\nSupport for popular 3D Framework"
+            "Image Detection/Tracking",
+            "Instant Planar Surfaces",
+            "Lighting",
+            "World Points and Hit Tests.\nSupport for popular 3D Framework"
         ],
         "price": "Agency 99/month Business 250$/month",
         "open_source_link": "https://github.com/8thwall/web",
@@ -364,12 +364,12 @@
         ],
         "related_hardwares": [
             "Three.js runs in all browsers supported by WebGL 1.0.\nAndroid smartphone",
-            " Google Daydream",
-            " Oculus Go",
-            " Oculus Rift",
-            " Vive",
-            " Samsung Gear VR.",
-            " an iPhone with a WebXR browser"
+            "Google Daydream",
+            "Oculus Go",
+            "Oculus Rift",
+            "Vive",
+            "Samsung Gear VR.",
+            "an iPhone with a WebXR browser"
         ],
         "documentation_link": "https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene",
         "popularity": "",
@@ -396,12 +396,12 @@
         ],
         "related_hardwares": [
             "For browsers that support ARCore and ARKit. https://aframe.io/blog/aframe-v1.0.0/\nSupports most VR headsets such as Vive",
-            " Rift",
-            " Windows Mixed Reality",
-            " Daydream",
-            " GearVR",
-            " Cardboard",
-            " Oculus Go\n"
+            "Rift",
+            "Windows Mixed Reality",
+            "Daydream",
+            "GearVR",
+            "Cardboard",
+            "Oculus Go\n"
         ],
         "documentation_link": "https://aframe.io/docs/1.0.0/introduction/",
         "popularity": "Most biggest community",
@@ -418,7 +418,7 @@
         "official_link": "https://aws.amazon.com/sumerian/",
         "key_features": [
             "Focused",
-            " supports latest web browser technology"
+            "supports latest web browser technology"
         ],
         "price": "Charged for the total size of the 3D assets upload and store in Sumerian at the rate of $0.06 per GB per month.\nFree Tier, you can get started with Amazon Sumerian for free. Upon sign-up, new customers can create up to a 50MB published scene that receives the equivalence of 100 views (5GB) per month, for the first 12 months.",
         "open_source_link": "",
@@ -429,15 +429,14 @@
         ],
         "related_hardwares": [
             "Mobile browsers: iOS: Safari (iOS 11 or newer)",
-            " Android: Chrome 66 or newer\nDesktop browsers: Firefox 61 or newer",
-            " Chrome 69 or newer\nVR browsers:Oculus browser\nVR headsets: HTC Vive",
-            " Vive Pro",
-            " Oculus Rift",
-            " Oculus Rift S",
-            " Oculus Go",
-            "Oculus Quest",
-            " Samsung Gear VR\nAR platforms:ARKit",
-            " ARCore"
+            "Android: Chrome 66 or newer\nDesktop browsers: Firefox 61 or newer",
+            "Chrome 69 or newer\nVR browsers:Oculus browser\nVR headsets: HTC Vive",
+            "Vive Pro",
+            "Oculus Rift",
+            "Oculus Rift S",
+            "Oculus Go,Oculus Quest",
+            "Samsung Gear VR\nAR platforms:ARKit",
+            "ARCore"
         ],
         "documentation_link": "https://docs.sumerian.amazonaws.com/",
         "popularity": "A competition using it with 1276 participants.",
@@ -506,7 +505,7 @@
         "official_link": "",
         "key_features": [
             "facial recognition",
-            " ability for users to make their own custom filters "
+            "ability for users to make their own custom filters "
         ],
         "price": "Free",
         "open_source_link": "",
@@ -514,7 +513,7 @@
         "curstomer_segment": "",
         "related_softwares": [
             "Spark AR",
-            " Snapchat\n"
+            "Snapchat\n"
         ],
         "related_hardwares": [
             ""
