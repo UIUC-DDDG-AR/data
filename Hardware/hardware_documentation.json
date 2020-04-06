@@ -46,7 +46,7 @@
             "Spatial Mapping(means Real-time environment mesh)",
             "Mixed Reality Capture(means Mixed hologram and physical environment photos and videos)"
         ],
-        "limitations": "FoV still isn\u2019t big enough\nHand tracking has to be in view",
+        "limitations": "FoV still is not big enough\nHand tracking has to be in view",
         "notes": "Difficult to order"
     },
     {

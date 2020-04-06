@@ -294,7 +294,7 @@
     {
         "name": "AR_js ",
         "type": "Software",
-        "description": "AR.js is a lightweight library for Augmented Reality on the Web, coming with features like Marker based and Location based AR.",
+        "description": "AR. js is a lightweight library for Augmented Reality on the Web, coming with features like Marker based and Location based AR.",
         "official_link": "",
         "key_features": [
             ""
