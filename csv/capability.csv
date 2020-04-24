@@ -1,4 +1,4 @@
-key,name,category,descripton
+key,name,category,description
 object_recognition,Object Recognition,Tracking and Recognition,"The capability to identify the form and shape of an object and their position in space using a camera and computer vision technique. Object Recognition is able to tell what the object is based on deep learning and machine learning algorithms.
 More specifically, Object Recognition can be broken down to three levels: Object detection, recognition and tracking."
 room_scene_tracking,Room/Scene Recognition,Tracking and Recognition,"The capability to understand the world around you so that AR experiences are more immersive by adding augmented objects to the world in accurate positions. This capability combines recognition of notable scene features with motion sensing data to recognize larger structures than table-size objects, rooms, faces of buildings, courtyards and etc. It works best with predictable lighting conditions."
