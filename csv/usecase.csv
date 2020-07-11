@@ -1,0 +1,42 @@
+application_name,object_recognition,dof_6,dof_3,room_scene_tracking,image_tracking,facial_recognition,location_tracking,cross_platform,motion_tracking,hand_tracking,picture_taking,video_recording,video_streaming,audio_calling,body_recognition,plane_detection,people_occlusion,multi_object_tracking,depth_sensing,light_estimation,voice_recognition,hand_control,eye_tracking,spatial_anchor,show_2d_content,show_3d_content,extended_tracking
+AMBEO Augmented Audio Lab,no.,yes.,yes.,yes.,no.,no.,yes.,no.,no.,yes.,yes.,yes.,yes.,no.,no.,no.,yes.,no.,yes.,no.,yes.(only recording),yes.,no.,yes.,yes.,yes.,yes.
+AmiKasa,no.,no.,no.,no.,no.,no.,no.,yes.,no.,no.,yes.,yes.,no.,no.,no.,no.,no.,no.,no.,no.,no.,no.,no.,no.,yes.,yes.,no.
+Angry Birds,no.,yes.,yes.,no.,no.,no.,no.,yes.,no.,no.,yes.,no.,no.,no.,no.,yes.,no.,no.,yes.,no.,no.,yes.,no.,yes.,yes.,yes.,yes.
+Angry Birds FPS,no.,yes.,yes.,yes.,no.,no.,yes.,yes.,no.,yes.(using controller),yes.,yes.,yes.,no.,no.,yes.,yes.,no.,yes.,no.,no.,yes. ,no.,yes.,yes.,yes.,yes.
+BMW Head-up Display,yes.,yes.,yes.,possible. road and environment sence,no.,no.,yes.,yes.,yes.,no.,no.,yes.,no.,no.,yes.,yes.,yes.,yes.,yes.,yes.,no.,yes.,no.,yes.,yes.,no.,yes.
+Civilisations AR,no.,yes.,yes.,no.,no.,no.,no.,yes.,no.,no.,yes.,no.,no.,no.,no.,yes.,no.,no.,yes.,no.,no.,yes.,no.,yes.,yes.,yes.,no.
+Curate,no.,no.,yes.,no.,no.,no.,no.,no.,no.,no.,yes.,yes.,yes.,no.,no.,yes.,yes.,no.,yes.,no.,no.,yes. ,no.,yes.,yes.,yes.,yes.
+Dr G Invaders,yes.,yes.,yes.,yes.,no.,no.,yes.,no.,yes.,yes.,yes.,yes.,yes.,no.,yes.,yes.,yes.,possible.,yes.,no.,no.,yes. ,no.,yes.,yes.,yes.,yes.
+FlippyFriendsAR,no.,yes.,yes.,no.,no.,no.,no.,yes.,no.,no.,yes.,no.,yes.,no.,no.,yes.,no.,no.,yes.,no.,no.,yes.,no.,yes.,no.,yes.,yes.
+Fragments,no.,yes.,yes.,yes.,no.,no.,yes.,no.,no.,yes.,yes.,yes.,yes.,no.,no.,yes.,yes.,no.,yes.,no.,no.,yes. ,no.,yes.,yes.,yes.,yes.
+Galaxy Explorer,no.,yes.,yes.,no.,no.,no.,yes.,yes.,no.,yes.,yes.,yes.,yes.,no.,no.,no.,yes.,no.,yes.,no.,yes.,yes. ,no.,yes.,yes.,yes.,yes.
+GIPHY World,no.,yes.,yes.,no.,no.,no.,no.,no.,no.,no.,yes.,yes.,no.,no.,no.,yes.,no.,no.,no.,no.,no.,no.,no.,no.,yes.,yes.,yes.
+Google Maps,possible. can scan the buildings,yes.,yes.,no.,no.,no.,yes.,yes.,no.,no.,no.,no.,no.,no.,no.,no.,no.,no.,yes.,no.,no.,no.,no.,yes.,yes.,yes.,no.
+Google Translate,no.,no.,yes.,no.,yes.,no.,no.,yes.,no.,no.,no.,no.,no.,no.,no.,no.,no.,yes.,no.,no.,no.,no.,no.,no.,yes.,no.,no.
+Holo,no.,no.,no.,no.,no.,no.,no.,yes.,no.,no.,yes.,no.,no.,no.,no.,yes.,no.,no.,no.,no.,no.,no.,no.,no.,yes.,yes.,no.
+HoloAnatomy,no.,yes.,yes.,no.,no.,no.,yes.,yes.,no.,yes.,yes.,yes.,yes.,yes.,no.,yes.,yes.,no.,yes.,no.,yes.,yes.,no.,yes.,yes.,yes.,yes.
+HoloHuman,no.,yes.,yes.,no.,no.,no.,yes.,no.,no.,yes.,yes.,yes.,yes.,no.,no.,yes.,yes.,no.,yes.,no.,yes.,yes. ,no.,yes.,yes.,yes.,yes.
+HoloTour,no.,yes.,yes.,yes.,no.,no.,yes.,no.,no.,no.,yes.,yes.,yes.,no.,no.,yes.,yes.,no.,yes.,no.,yes.,yes.,no.,yes.,yes.,yes.,yes.
+Houzz,no.,yes.,yes.,no.,no.,no.,no.,yes.,no.,no.,yes.,yes.,no.,no.,no.,yes.,no.,no.,no.,no.,no.,no.,no.,no.,yes.,yes.,yes.
+IBM,yes.,possible.,yes.,no.,no.,no.,no.,yes.,no.,yes.,no.,no.,no.,no.,yes.,no.,yes.,yes.,yes.,no.,yes.,no.,no.,yes.,yes.,yes.,yes.
+IKEA place,no.,yes.,yes.,no.,no.,no.,no.,yes.,no.,no.,yes.,yes.,no.,no.,no.,yes.,no.,no.,no.,no.,no.,no.,no.,no.,yes.,yes.,yes.
+Just a line,no.,yes.,yes.,no.,no.,no.,no.,yes.,no.,no.,yes.,yes.,yes.,no.,no.,no.,no.,no.,yes.,no.,no.,yes.,no.,yes.,no.,yes.,yes.
+Magic Leap Create,yes.,yes.,yes.,yes.,no.,no.,yes.,no.,no.,no.,yes.,yes.,yes.,no.,no.,yes.,yes.,no.,yes.,no.,no.,yes. ,no.,yes.,yes.,yes.,yes.
+Mondly,no.,yes.,yes.,no.,no.,no.,no.,yes.,no.,no.,yes.,yes.,no.,no.,no.,yes.,no.,no.,yes.,no.,yes.,yes.,no.,yes.,yes.,yes.,no.
+Obsess ,no.,yes.,yes.,no.,no.,no.,no.,no.,no.,no.,yes.,yes.,yes.,no.,no.,yes.,yes.,no.,yes.,yes.,no.,yes.,yes.,yes.,yes.,yes.,yes.
+Pokémon Go,no.,yes.,yes.,no.,no.,no.,yes.,yes.,no.,no.,yes.,yes.,no.,no.,yes.,yes.,yes.,no.,yes.,no.,no.,yes.,no.,yes.,yes.,yes.,no.
+PresentAR,no.,yes. ,yes.,no.,no.,no.,yes.,yes.,no.,yes.,yes.,yes.,yes.,yes.,no.,yes.,yes.,no.,yes.,no.,yes.,yes. ,no.,yes.,yes.,yes.,yes.
+Quiver,no.,yes.,yes.,no.,yes.,no.,no.,yes.,no.,no.,yes.,yes.,no.,no.,no.,no.,no.,no.,yes.,no.,no.,no.,no.,no.,yes.,yes.,no.
+SeeSignal,no.,yes. ,yes.,yes.,no.,no.,yes.,no.,yes.,yes.,yes.,yes.,yes.,no.,no.,yes.,yes.,no.,yes.,no.,no.,yes. ,no.,yes.,yes.,yes.,yes.
+Sephora Virtual Artist,no.,yes.,yes.,no.,no.,yes.,no.,yes.,no.,no.,yes.,yes.,no.,no.,no.,no.,no.,no.,no.,no.,no.,no.,no.,no.,yes.,no.,no.
+Sky View,no.,no.,no.,no.,no.,no.,yes.,yes.,no.,no.,yes.,yes.,no.,no.,no.,no.,no.,no.,no.,no.,no.,no.,no.,no.,yes.,no.,no.
+Skylight,yes.,yes.,yes.,no.,yes.,no.,yes.,no.,no.,no.,yes.,yes.,yes.,no.,no.,no.,no.,yes.,yes.,no.,yes.,no.,no.,no.,yes.,no.,no.
+Snapchat,yes.,yes.,yes.,possible. can sence environment,yes.,yes. add interactive sticker to face including animal face,yes.,yes.,no.,yes. track hands postion and rotation,yes.,yes.,yes.,yes.,yes.,yes.,no.,yes.,yes.,no.,no.,yes.,yes. change color and size of eyes,yes.,yes.,yes.,no.
+Spatial.io,no.,yes.,yes.,no.,no.,no.,no.,no.,no.,yes.,yes.,yes.,yes.,yes.,no.,yes.,yes.,no.,yes.,no.,yes.,yes.,no.,yes.,yes.,yes.,yes.
+Spatial.io,no.,yes.,yes.,yes.(only one wall),no.,no.,yes.,yes.,yes.,yes.,yes.,yes.,yes.,yes.,yes.,yes.,yes.,no.,yes.,no.,yes.,yes.,no.,yes.,yes.,yes.,yes.
+Virtual training programs,no.,yes.,yes.,no.,no.,no.,yes.,yes.,yes.,yes.,yes.,yes.,yes.,yes.,no.,yes.,yes.,no.,yes.,no.,yes.,yes.,no.,yes.,yes.,yes.,yes.
+Vision Picking,yes.,yes.,yes.,no.,yes.,no.,yes.,no.,no.,no.,no.,no.,no.,no.,no.,no.,yes.,yes.,yes.,no.,yes.,yes.,no.,no.,yes.,no.,no.
+WallaMe,no.,yes.,yes.,no.,no.,no.,yes.,yes.,no.,no.,yes.,no.,no.,no.,no.,no.,no.,no.,no.,no.,no.,yes.,no.,no.,yes.,no.,yes.
+Wanna Kicks,yes.,yes.,yes.,no.,no.,no.,no.,yes.,no.,possible. foot tracking,yes.,no.,no.,no.,yes.,no.,possible. can only occulation part of body,yes.,yes.,no.,no.,no.,no.,yes.,no.,yes.,yes.
+WorkLink,no.,yes.,yes.,no.,no.,no.,no.,yes.,no.,no.,yes.,yes.,yes.,yes.,no.,yes.,yes.,yes.,yes.,no.,yes.,yes.,no.,yes.,yes.,yes.,yes.
+WSJ Stock Data,no.,yes.,yes.,no.,no.,no.,yes.,no.,no.,no.,yes.,yes.,yes.,no.,no.,no.,yes.,no.,yes.,no.,no.,yes.,no.,yes.,yes.,yes.,yes.

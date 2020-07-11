@@ -1,17 +1,17 @@
 import csv, json 
 
-path_capability = "/Users/scottwang/Desktop/AR/data/csv/capability.csv"
-path_Hardware_capability = "/Users/scottwang/Desktop/AR/data/csv/hardware_capability.csv"
-path_Software_capability = "/Users/scottwang/Desktop/AR/data/csv/software_capability.csv"
-path_Hardware_information = "/Users/scottwang/Desktop/AR/data/csv/hardware_information.csv"
-path_Software_information = "/Users/scottwang/Desktop/AR/data/csv/software_information.csv"
+path_capability = "csv/capability.csv"
+path_Hardware_capability = "csv/hardware_capability.csv"
+path_Software_capability = "csv/software_capability.csv"
+path_Hardware_information = "csv/hardware_information.csv"
+path_Software_information = "csv/software_information.csv"
 
 data_capability = []
 with open(path_capability) as csv_capability:
     cap = csv.DictReader(csv_capability)
     for csvRow in cap:
         data_capability.append(csvRow)
-with open("/Users/scottwang/Desktop/AR/data/Capability/capability_information.json", 'w') as f1:
+with open("Capability/capability_information.json", 'w') as f1:
     f1.write(json.dumps(data_capability,indent=4))
 
 data_H_capability = []
@@ -29,7 +29,7 @@ for item in data_H_capability:
         if item[key][:8] == 'possible':
             item[key] = (2,item[key][10:])
     
-with open("/Users/scottwang/Desktop/AR/data/Hardware/hardware_capability.json", 'w') as f1:
+with open("Hardware/hardware_capability.json", 'w') as f1:
     f1.write(json.dumps(data_H_capability,indent=4))
 
 data_S_capability = []
@@ -47,7 +47,7 @@ for item in data_S_capability:
         if item[key][:8] == 'possible':
             item[key] = (2,item[key][10:])
 
-with open("/Users/scottwang/Desktop/AR/data/Software/software_capability.json", 'w') as f1:
+with open("Software/software_capability.json", 'w') as f1:
     f1.write(json.dumps(data_S_capability,indent=4))
 
 data_H_information = []
@@ -64,7 +64,7 @@ for item in data_H_information:
     item['customer_segment'] = item['customer_segment'].split(', ')
     item['possible_interactions'] = item['possible_interactions'].split(', ')
 
-with open("/Users/scottwang/Desktop/AR/data/Hardware/hardware_documentation.json", 'w') as f1:
+with open("Hardware/hardware_documentation.json", 'w') as f1:
     f1.write(json.dumps(data_H_information,indent=4))
 
 data_S_information = []
@@ -77,7 +77,7 @@ for item in data_S_information:
     item['related_hardwares'] = item['related_hardwares'].split(', ')   
     item['key_features'] = item['key_features'].split(', ')
         
-with open("/Users/scottwang/Desktop/AR/data/Software/software_documentation.json", 'w') as f1:
+with open("Software/software_documentation.json", 'w') as f1:
     f1.write(json.dumps(data_S_information,indent=4))
 
 
