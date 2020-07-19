@@ -1,0 +1,137 @@
+[
+    {
+        "application_name": "object_recognition",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "dof_6",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "dof_3",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "room_scene_tracking",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "image_tracking",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "facial_recognition",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "location_tracking",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "cross_platform",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "motion_tracking",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "hand_tracking",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "picture_taking",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "video_recording",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "video_streaming",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "audio_calling",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "body_recognition",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "plane_detection",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "people_occlusion",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "multi_object_tracking",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "depth_sensing",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "light_estimation",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "voice_recognition",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "hand_control",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "eye_tracking",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "spatial_anchor",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "show_2d_content",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "show_3d_content",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    },
+    {
+        "application_name": "extended_tracking",
+        "snapchat": "1",
+        "pokemon_go": "2"
+    }
+]
