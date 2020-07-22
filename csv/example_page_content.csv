@@ -1,28 +1,28 @@
-application_name,snapchat,pokemon go
-object_recognition,1,2
-dof_6,1,2
-dof_3,1,2
-room_scene_tracking,1,2
-image_tracking,1,2
-facial_recognition,1,2
-location_tracking,1,2
-cross_platform,1,2
-motion_tracking,1,2
-hand_tracking,1,2
-picture_taking,1,2
-video_recording,1,2
-video_streaming,1,2
-audio_calling,1,2
-body_recognition,1,2
-plane_detection,1,2
-people_occlusion,1,2
-multi_object_tracking,1,2
-depth_sensing,1,2
-light_estimation,1,2
-voice_recognition,1,2
-hand_control,1,2
-eye_tracking,1,2
-spatial_anchor,1,2
-show_2d_content,1,2
-show_3d_content,1,2
-extended_tracking,1,2
+capability_id,snapchat,pokemon go
+object_recognition,"Snapchat can use camera to detect, recognize and track objects, such as buildings, human face, and hands. It is able to tell what the object is based on deep learning and machine learning algorithms.",
+dof_6,Snapchat has 6 Degrees of Freedom of movement in 3D space ,Pokemon Go has 6 Degrees of Freedom of movement in 3D space 
+dof_3,Snapchat has more than 3 Degrees of Freedom of movement in 3D space ,Pokemon Go has more than 3 Degrees of Freedom of movement in 3D space 
+room_scene_tracking,,
+image_tracking,Snapchat can detect and scan image and retrieve information from it.,
+facial_recognition,Snapchat can use recognize and track human and animals faces and attach animated stickers.,
+location_tracking,Snapchat can access the location and detect the landscape around users.,Pokemon Go can take use of GPS to locate the Pokemon and users.
+cross_platform,Snapchat can be used on mutiple devices and plantforms.,Pokemon Go can be used on mutiple devices and plantforms.
+motion_tracking,,
+hand_tracking,Snapchat can track hand position and gestures.,
+picture_taking,Snapchat can take a picture with AR components.,Pokemon Go can take a picture with Pokemon in real world.
+video_recording,Snapchat can record the animation video with AR components.,Pokemon Go can also record a video to show the interaction with Pokemon.
+video_streaming,"As a social media software, Snapchat can do the audio calling and video streaming with AR components on screen.",
+audio_calling,"As a social media software, Snapchat can do the audio calling and video streaming with AR components on screen.",
+body_recognition,Snapchat can recognize whether there's a body in the scene/environment. It can also do body segmentation by narrowing down body parts to joints and connections. ,
+plane_detection,Snapchat can detect the plane such as desks or ground to display AR objects.,Pokemon Go can detect the plane to show the Pokemon.
+people_occlusion,,Pokemon Go can hide virtual objects (Pokemon) behind people/buildings or show in front based on real world depth order.
+multi_object_tracking,"Snapchat can use camera to detect, recognize and track multiple objects.",
+depth_sensing,Snapchat is able to understand which objects are closer than others.,Pokemon Go is able to detect the distance from the Pokemon and users.
+light_estimation,,
+voice_recognition,,
+hand_control,The animation 3D AR component can be controled by hands on different kinds of devices.,Pokemon Go can be controlled on different kinds of devices such as phones or tablets.
+eye_tracking,"Snapchat can use camera to detect, recognize and track human or animal eyes.",
+spatial_anchor,Snapchat can map a 3D environment interactively.,
+show_2d_content,Snapchat can display the 2D stickers or image and attach to the real world.,Pokemon Go can display the 2D image and attach to the real world.
+show_3d_content,Snapchat can display the 3D content and render to the real world.,Pokemon Go can display the 3D Pokemon and render to the real world.
+extended_tracking,,

@@ -1,137 +1,137 @@
 [
     {
-        "application_name": "object_recognition",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "object_recognition",
+        "snapchat": "Snapchat can use camera to detect, recognize and track objects, such as buildings, human face, and hands. It is able to tell what the object is based on deep learning and machine learning algorithms.",
+        "pokemon go": ""
     },
     {
-        "application_name": "dof_6",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "dof_6",
+        "snapchat": "Snapchat has 6 Degrees of Freedom of movement in 3D space ",
+        "pokemon go": "Pokemon Go has 6 Degrees of Freedom of movement in 3D space "
     },
     {
-        "application_name": "dof_3",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "dof_3",
+        "snapchat": "Snapchat has more than 3 Degrees of Freedom of movement in 3D space ",
+        "pokemon go": "Pokemon Go has more than 3 Degrees of Freedom of movement in 3D space "
     },
     {
-        "application_name": "room_scene_tracking",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "room_scene_tracking",
+        "snapchat": "",
+        "pokemon go": ""
     },
     {
-        "application_name": "image_tracking",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "image_tracking",
+        "snapchat": "Snapchat can detect and scan image and retrieve information from it.",
+        "pokemon go": ""
     },
     {
-        "application_name": "facial_recognition",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "facial_recognition",
+        "snapchat": "Snapchat can use recognize and track human and animals faces and attach animated stickers.",
+        "pokemon go": ""
     },
     {
-        "application_name": "location_tracking",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "location_tracking",
+        "snapchat": "Snapchat can access the location and detect the landscape around users.",
+        "pokemon go": "Pokemon Go can take use of GPS to locate the Pokemon and users."
     },
     {
-        "application_name": "cross_platform",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "cross_platform",
+        "snapchat": "Snapchat can be used on mutiple devices and plantforms.",
+        "pokemon go": "Pokemon Go can be used on mutiple devices and plantforms."
     },
     {
-        "application_name": "motion_tracking",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "motion_tracking",
+        "snapchat": "",
+        "pokemon go": ""
     },
     {
-        "application_name": "hand_tracking",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "hand_tracking",
+        "snapchat": "Snapchat can track hand position and gestures.",
+        "pokemon go": ""
     },
     {
-        "application_name": "picture_taking",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "picture_taking",
+        "snapchat": "Snapchat can take a picture with AR components.",
+        "pokemon go": "Pokemon Go can take a picture with Pokemon in real world."
     },
     {
-        "application_name": "video_recording",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "video_recording",
+        "snapchat": "Snapchat can record the animation video with AR components.",
+        "pokemon go": "Pokemon Go can also record a video to show the interaction with Pokemon."
     },
     {
-        "application_name": "video_streaming",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "video_streaming",
+        "snapchat": "As a social media software, Snapchat can do the audio calling and video streaming with AR components on screen.",
+        "pokemon go": ""
     },
     {
-        "application_name": "audio_calling",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "audio_calling",
+        "snapchat": "As a social media software, Snapchat can do the audio calling and video streaming with AR components on screen.",
+        "pokemon go": ""
     },
     {
-        "application_name": "body_recognition",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "body_recognition",
+        "snapchat": "Snapchat can recognize whether there's a body in the scene/environment. It can also do body segmentation by narrowing down body parts to joints and connections. ",
+        "pokemon go": ""
     },
     {
-        "application_name": "plane_detection",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "plane_detection",
+        "snapchat": "Snapchat can detect the plane such as desks or ground to display AR objects.",
+        "pokemon go": "Pokemon Go can detect the plane to show the Pokemon."
     },
     {
-        "application_name": "people_occlusion",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "people_occlusion",
+        "snapchat": "",
+        "pokemon go": "Pokemon Go can hide virtual objects (Pokemon) behind people/buildings or show in front based on real world depth order."
     },
     {
-        "application_name": "multi_object_tracking",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "multi_object_tracking",
+        "snapchat": "Snapchat can use camera to detect, recognize and track multiple objects.",
+        "pokemon go": ""
     },
     {
-        "application_name": "depth_sensing",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "depth_sensing",
+        "snapchat": "Snapchat is able to understand which objects are closer than others.",
+        "pokemon go": "Pokemon Go is able to detect the distance from the Pokemon and users."
     },
     {
-        "application_name": "light_estimation",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "light_estimation",
+        "snapchat": "",
+        "pokemon go": ""
     },
     {
-        "application_name": "voice_recognition",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "voice_recognition",
+        "snapchat": "",
+        "pokemon go": ""
     },
     {
-        "application_name": "hand_control",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "hand_control",
+        "snapchat": "The animation 3D AR component can be controled by hands on different kinds of devices.",
+        "pokemon go": "Pokemon Go can be controlled on different kinds of devices such as phones or tablets."
     },
     {
-        "application_name": "eye_tracking",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "eye_tracking",
+        "snapchat": "Snapchat can use camera to detect, recognize and track human or animal eyes.",
+        "pokemon go": ""
     },
     {
-        "application_name": "spatial_anchor",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "spatial_anchor",
+        "snapchat": "Snapchat can map a 3D environment interactively.",
+        "pokemon go": ""
     },
     {
-        "application_name": "show_2d_content",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "show_2d_content",
+        "snapchat": "Snapchat can display the 2D stickers or image and attach to the real world.",
+        "pokemon go": "Pokemon Go can display the 2D image and attach to the real world."
     },
     {
-        "application_name": "show_3d_content",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "show_3d_content",
+        "snapchat": "Snapchat can display the 3D content and render to the real world.",
+        "pokemon go": "Pokemon Go can display the 3D Pokemon and render to the real world."
     },
     {
-        "application_name": "extended_tracking",
-        "snapchat": "1",
-        "pokemon_go": "2"
+        "capability_id": "extended_tracking",
+        "snapchat": "",
+        "pokemon go": ""
     }
 ]
